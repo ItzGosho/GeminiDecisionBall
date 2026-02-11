@@ -2,6 +2,10 @@
 
 A full-stack 8-ball decision app powered by Gemini AI with Google OAuth, decision history, and 3 personality modes.
 
+> ⚠️ **Educational Purposes Only**
+>
+> This project is designed for educational and learning purposes only. Users must obtain legitimate credentials (Google OAuth, Gemini API key), comply with all applicable terms of service, and use APIs responsibly. Not intended for commercial use without proper licensing. See [LICENSE](LICENSE) for full details.
+
 ## Features
 
 - 🔐 Google OAuth authentication
@@ -234,6 +238,38 @@ GeminiDecisionBall/
     └── .env
 ```
 
+## Educational Use
+
+This project is provided for educational and learning purposes. It demonstrates:
+- Full-stack JavaScript development
+- React state management patterns
+- Express.js API design
+- OAuth 2.0 authentication flow
+- SQLite database design
+- JWT token handling
+- CSS animations and responsive design
+- Framer Motion for interactive UI
+
+### Requirements for Legitimate Use
+
+Users must:
+- ✅ Obtain legitimate Google OAuth credentials from Google Cloud Console
+- ✅ Get a genuine Gemini API key from Google AI Studio
+- ✅ Read and comply with all Google Terms of Service
+- ✅ Use API keys responsibly and within quota limits
+- ✅ Not use for commercial purposes without proper licensing
+- ✅ Not engage in any unauthorized or unethical use
+- ✅ Respect API rate limits and implement proper error handling
+
+### Compliance
+
+By using this project, you agree to:
+1. Comply with Google's Terms of Service
+2. Only use legitimate API credentials
+3. Respect API quotas and rate limits
+4. Not abuse or misuse the services
+5. Use the software as-is without warranty
+
 ## License
 
-MIT
+MIT - See [LICENSE](LICENSE) file for details
